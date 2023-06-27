@@ -1,14 +1,14 @@
 {
-  "short_name": "Микрозай и точка",
-  "name": "Микрозай и точка",
+  "short_name": "ruЗайм",
+  "name": "ruЗайм",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Logo_64_64.svg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "Logo_512_512.png",
       "type": "image/png",
       "sizes": "192x192"
     },
